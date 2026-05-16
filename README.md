@@ -1,2 +1,39 @@
-# Tumor_Detection_System
-A Streamlit-based AI tumor detection system that allows users to upload medical images for analysis. The application uses a trained deep learning model to classify the uploaded image and predict whether a tumor is present. Built with Python and Streamlit, it provides a simple, interactive, and user-friendly diagnostic interface.
+# 🧠 Tumor Detection System
+
+An AI-powered Tumor Detection System built using **Python**, **Deep Learning**, and **Streamlit**.  
+This application allows users to upload medical images and instantly receive tumor classification predictions through a clean and interactive web interface.
+
+---
+
+## 🚀 Features
+
+- 📤 Upload medical scan images
+- 🤖 AI-based tumor classification
+- ⚡ Real-time prediction results
+- 🎨 Simple and interactive Streamlit UI
+- 🧠 Deep Learning powered detection system
+- 💻 Easy local deployment
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- Streamlit
+- TensorFlow / Keras
+- OpenCV
+- NumPy
+- PIL (Python Imaging Library)
+
+---
+
+## 📂 Project Structure
+
+```bash
+Tumor-Detection-System/
+│
+├── app.py                 # Main Streamlit application
+├── model/                 # Trained model files
+├── assets/                # Images and screenshots
+├── requirements.txt       # Dependencies
+├── README.md              # Project documentation
