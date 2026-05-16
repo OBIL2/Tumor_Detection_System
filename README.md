@@ -1,7 +1,7 @@
 # 🧠 AI Tumor Detection System
 
 <p align="center">
-  <img src="assets/banner.png" alt="Tumor Detection Banner" width="100%">
+  <img src="assets/banner.png" width="100%">
 </p>
 
 <p align="center">
